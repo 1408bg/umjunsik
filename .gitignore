@@ -3,3 +3,4 @@
 .dart_tool/
 .local-chrome/
 pubspec.lock
+**/config.dart
